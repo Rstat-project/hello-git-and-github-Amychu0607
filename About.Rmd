@@ -20,11 +20,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - 我從那裡來？ 
 
-NULL
+台中
 
 - 我決定來這裡的動機？
 
-NULL
+學習新的領域
 
 - 我對這門課的期望？
 
