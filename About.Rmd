@@ -18,15 +18,15 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## 自我介紹
 
-- 我從那裡來？ 
+- 我從那裡來？
 
-台中-mac test 4
+台中-mac test ５
 
 - 我決定來這裡的動機？
 
-學習新的領域-mac  test 4
+學習新的領域，以及學會使用Ｒ語言-mac  test ５
 
 - 我對這門課的期望？
 
-希望可以學習到R-mac  test4
+希望可以學習到R -mac test5
 
