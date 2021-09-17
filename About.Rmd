@@ -1,7 +1,6 @@
 ---
 title: "自我介紹"
-author: "AmyChu"
-date: "`r Sys.Date()`"
+author: "AmyCHU"2
 output: html_document
 ---
 
