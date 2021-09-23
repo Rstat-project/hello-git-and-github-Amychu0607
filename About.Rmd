@@ -1,7 +1,6 @@
 ---
 title: "自我介紹"
-author: "My name"
-date: "`r Sys.Date()`"
+author: "AmyCHU"三次課程feedback 
 output: html_document
 ---
 
@@ -18,14 +17,16 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## 自我介紹
 
-- 我從那裡來？ 
+- 我從那裡來？
 
-NULL
+Taichung -mac test 1stpractice class.
 
-- 我決定來這裡的動機？
+- 我決定來這裡的動機？ 
 
-NULL
+學習新的領域，以及學會使用Ｒ語言，增加統計知識-mac test 11.
 
 - 我對這門課的期望？
 
-NULL
+希望可以學習到R -mac test 11.
+(開學前push作業自我測試& change 資料夾測試)
+
