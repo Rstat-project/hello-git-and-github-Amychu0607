@@ -1,6 +1,6 @@
 ---
 title: "自我介紹"
-author: "AmyCHU"2
+author: "AmyCHU"三次課程feedback 
 output: html_document
 ---
 
